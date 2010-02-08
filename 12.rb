@@ -1,5 +1,7 @@
 a, i, j = 0, 1, 0
  
+cache = {} 
+  
 while i < 500  do
   i = 1
   a += j + 1 
